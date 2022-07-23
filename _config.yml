@@ -18,14 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dan A. O'Brien
-email: dananthonyobrien@gmail.com
+title: Bishopstown Honey
+email: jimobrien33@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Dan A. O'Brien, technical writer, editor, teacher. Built using Jekyll and GitHub Pages
+  Bishopstown Honey, 2022
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  dananthonyobrien
-linkedin_user: dan-a-o-brien/
 # Build settings
 markdown: kramdown
 theme: minima
