@@ -7,6 +7,8 @@ layout: home
 
 ![header](/img/header.png)
 
-## Dan A. O'Brien ###
+## Bishopstown Honey ###
 
-I am a writer, editor, and teacher, with a passion for texts and technology. I have written and edited several non-fiction books, and my work has also appeared in the [*Irish Times*](https://www.irishtimes.com/culture/books/how-edna-o-brien-found-sanctuary-among-jewish-american-writers-1.3980562), the [*Dublin Review of Books*](https://www.drb.ie/contributors-articles/-in-tags/tags/Dan-A-O-Brien), and on [*RTÉ*](https://www.rte.ie/brainstorm/2018/0903/991330-how-archives-illuminate-an-authors-work/). I am a life-long learner, and am currently completing a Higher Diploma in Computer Science. I work as a technical writer at Johnson Controls, where I get to combine my love of the written word and wired world. 
+Bishopstown Honey (Beetown Honey for short!) was set up in 2020 with two hives. There are now 10 hives all over the city and surrounds, with hundreds of thousands of thriving bees, helping to pollinate our gardens and strengthen our city’s biodiversity. 
+
+
